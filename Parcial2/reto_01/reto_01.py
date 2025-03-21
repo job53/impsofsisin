@@ -1,3 +1,4 @@
+
 """    
 Usaremos este script para enseñar Python a principiantes.
 El script es un ejemplo de Fizz-Buzz implementado en Python.
@@ -22,7 +23,7 @@ def fizzbuzz(max_num):
         # % o modulo
         if i%num1==0 and i%num2==0:
             print(i,tres_mul+cinco_mul)
-        elif i%num1=0:
+        elif i%num1==0:
             print(i,tres_mul)
         elif i%num2==0:
             print(i,cinco_mul)
